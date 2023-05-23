@@ -1,0 +1,1 @@
+Given a string S. For each index i(1<=i<=N-1), erase it if s[i] is equal to s[i-1] in the string.
