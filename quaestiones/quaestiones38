@@ -1,0 +1,4 @@
+Given n objects, with each object has width wi. We need to arrange them in a pyramidal way such that : 
+
+Total width of ith is less than (i + 1)th.
+Total number of objects in the ith is less than (i + 1)th.
