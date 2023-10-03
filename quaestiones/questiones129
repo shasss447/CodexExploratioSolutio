@@ -1,0 +1,2 @@
+Given a weighted directed graph with n nodes and m edges. Nodes are labeled from 0 to n-1, the task is to check if it contains a negative weight cycle or not.
+Note: edges[i] is defined as u, v and weight.
